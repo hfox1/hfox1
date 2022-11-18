@@ -1,12 +1,13 @@
 ### Hi there 😃 I'm Harry
 
+
 # 🛠 Full stack junior developer 🛠
 
 I make things happen
 
 I will make them happen for you
 
-## A few things about me
+## 🦑 A few things about me 🦑
 
 - I used to run my own restaurants
 
@@ -17,10 +18,12 @@ I will make them happen for you
 - I've seen a startup from series A to C
 
 - The projects below in Ruby and JS are from a 16 week bootcamp, with no prior coding knowledge
+<br>
 
-Find my [CV](https://drive.google.com/file/d/18R1sjmmRuM4eDQfid4FF-SSqUDuzyOGF/view?usp=share_link) here 😘
+#  PDF [CV](https://drive.google.com/file/d/18R1sjmmRuM4eDQfid4FF-SSqUDuzyOGF/view?usp=share_link) here 😘
+ 
 
-## Tech stack
+## 💎 Tech stack 💎
 
 - JavaScript (Node.js, Phaser, Express, MongoDB, Jest, Cypress)
 
@@ -34,7 +37,7 @@ Find my [CV](https://drive.google.com/file/d/18R1sjmmRuM4eDQfid4FF-SSqUDuzyOGF/v
 
 - Git, GitHub
 
-## Projects
+## 🔮 Projects 🔮
 
 | Project (Repo)                                                     |                                    Description                                    |                   Live link                   |                                         Technologies |
 | :----------------------------------------------------------------- | :-------------------------------------------------------------------------------: | :-------------------------------------------: | ---------------------------------------------------: |
