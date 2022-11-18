@@ -2,10 +2,13 @@
 
 
 # 🛠 Full stack junior developer 🛠
+<br>
 
 I make things happen
 
 I will make them happen for you
+<br>
+<br>
 
 ## 🦑 A few things about me 🦑
 
@@ -20,8 +23,9 @@ I will make them happen for you
 - The projects below in Ruby and JS are from a 16 week bootcamp, with no prior coding knowledge
 <br>
 
-#  PDF [CV](https://drive.google.com/file/d/18R1sjmmRuM4eDQfid4FF-SSqUDuzyOGF/view?usp=share_link) here 😘
- 
+  [  ![](https://img.shields.io/badge/PDF_CV-13b?height=70&style=for-the-badge&logo=cv&logoColor=white)](https://drive.google.com/file/d/18R1sjmmRuM4eDQfid4FF-SSqUDuzyOGF/view?usp=share_link) 
+ <br>
+ <br>
 
 ## 💎 Tech stack 💎
 
@@ -36,6 +40,7 @@ I will make them happen for you
 - Heroku
 
 - Git, GitHub
+<br>
 
 ## 🔮 Projects 🔮
 
