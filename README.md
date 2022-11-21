@@ -16,7 +16,7 @@ I will make them happen for you
 
 - My MPhys project was in optical entanglement for quantum computing
 
-- I have multiple backgrounds: UX testing, music & performance, mental resilience training, mindfulness, and counselling
+- I have multiple backgrounds: UX testing, music & performance, mental resilience training, and mindfulness
 
 - I've seen a startup from series A to C
 
