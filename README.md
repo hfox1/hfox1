@@ -29,15 +29,15 @@ I will make them happen for you
 
 ## 💎 Tech stack 💎
 
-- JavaScript (Node.js, Phaser, Express, MongoDB, Jest, Cypress)
+- JavaScript (Node.js, React, Phaser, Express, MongoDB, Jest, Cypress)
 
 - Ruby (Sinatra, RSpec, Capybara)
 
 - SQL (PostgreSQL, TablePlus)
 
-- HTML, CSS (Bootstrap)
+- HTML, CSS (Bootstrap, Handlebars, Postman)
 
-- Heroku
+- Heroku, Vercel
 
 - Git, GitHub
 <br>
@@ -47,7 +47,8 @@ I will make them happen for you
 | Project (Repo)                                                     |                                    Description                                    |                   Link                   |                                         Technologies |
 | :----------------------------------------------------------------- | :-------------------------------------------------------------------------------: | :-------------------------------------------: | ---------------------------------------------------: |
 | [ReefRunner](https://github.com/hfox1/ReefRunner)                  | Nostalgic aquatic side-scroller with Drexciya soundtrack - final project at Makers |       [reef-runner.vercel.app](reef-runner.vercel.app)       |                            Node.js, Phaser 3, Heroku |
-| [Game of Life](https://github.com/hfox1/conways-game-of-life)      |                        JS implementation of Conway's Game                         | https://github.com/hfox1/conways-game-of-life |                                        Node.js, Jest |
-| [The Social Network](https://github.com/hfox1/The-Social-Network) |           A MEN stack Facebook-like app built in 2 weeks at Makers           |     https://github.com/hfox1/The-Social-Network      | Mongoose, Express, Node.js, Handlebars, CSS, Cypress |
-| [Bank App](https://github.com/hfox1/Bank-App)                      |                       CLI banking app                        |       https://github.com/hfox1/Bank-App       |                                        Node.js, Jest |
+| [Game of Life](https://github.com/hfox1/conways-game-of-life)      |                        JS CLI implementation of Conway's Game - OOP & TDD                         | https://github.com/hfox1/conways-game-of-life |                                        Node.js, Jest |
+| [NTSu (current project)](https://github.com/Curtis-Turk/NTSu) | MERN app that scrapes NTS.live and connects to YouTube, Bandcamp & Discogs APIs          |     [https://github.com/hfox1/The-Social-Network](https://github.com/Curtis-Turk/NTSu)      | React, Mongoose, Express, Node.js, CSS |
+| [NTSu](https://github.com/Curtis-Turk/NTSu) |           MEN stack Facebook-like app built in 2 weeks at Makers           |     https://github.com/hfox1/The-Social-Network      | Mongoose, Express, Node.js, Handlebars, CSS, Cypress |
+| [Bank App](https://github.com/hfox1/Bank-App)                      |                       CLI banking app - OOP & TDD                      |       https://github.com/hfox1/Bank-App       |                                        Node.js, Jest |
 | [MakersBNB](https://github.com/hfox1/Makersbnb)                     |                       Airbnb-inspired full stack Ruby site                        |  https://github.com/hfox1/Makersbnb  |                  Ruby, Sinatra, PG, RSpec, Bootstrap |
