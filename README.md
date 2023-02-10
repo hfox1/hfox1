@@ -23,7 +23,7 @@ I will make them happen for you
 - The projects below in Ruby and JS are from a 16 week bootcamp, with no prior coding knowledge
 <br>
 
-  [  ![](https://img.shields.io/badge/PDF_CV-13b?height=70&style=for-the-badge&logo=cv&logoColor=white)](https://drive.google.com/file/d/18R1sjmmRuM4eDQfid4FF-SSqUDuzyOGF/view?usp=share_link) 
+  [  ![](https://img.shields.io/badge/PDF_CV-13b?height=70&style=for-the-badge&logo=cv&logoColor=white)](https://drive.google.com/file/d/12v0thuZgP1KKApL9m6jDSHFXDGwTjDMX/view?usp=share_link) 
  <br>
  <br>
 
