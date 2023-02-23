@@ -33,6 +33,8 @@ I will make them happen for you
 
 - Ruby (Sinatra, RSpec, Capybara)
 
+- Java (Gradle, JUnit)
+
 - SQL (PostgreSQL, TablePlus)
 
 - HTML, CSS (Bootstrap, Handlebars, Postman)
